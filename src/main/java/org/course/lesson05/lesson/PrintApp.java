@@ -1,4 +1,4 @@
-package org.course.lesson05;
+package org.course.lesson05.lesson;
 
 public class PrintApp {
   public static void main(String[] args) {  // main method

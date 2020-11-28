@@ -1,4 +1,4 @@
-package org.course.lesson05;
+package org.course.lesson05.lesson;
 
 public class DataTypeApp {
   public static void main(String[] args) {

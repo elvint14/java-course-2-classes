@@ -1,4 +1,4 @@
-package org.course.lesson05;
+package org.course.lesson05.lesson;
 
 public class ArithmeticOperationApp {
   public static void main(String[] args) {
