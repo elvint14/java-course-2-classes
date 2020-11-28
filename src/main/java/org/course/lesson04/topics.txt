@@ -1,4 +1,4 @@
 - Version Control System, Git
-    - GitHub,
+    - GitHub, (+)
     - GitLab,
     - Bitbucket
