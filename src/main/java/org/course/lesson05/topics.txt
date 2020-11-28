@@ -1,0 +1,12 @@
+ - Java Basics:
+    - Java basics:
+      I. Data types
+      II.Variables
+      III. Operations
+
+    - Operators:
+      I. Arithmetic Operators
+      II. Relational Operators
+      III. Logical Operators
+      IV. Assignment Operators
+      V. Miscellaneous Operators
