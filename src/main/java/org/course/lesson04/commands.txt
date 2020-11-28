@@ -1,7 +1,7 @@
-1) git clone 'url'                        -> to clone repo (project) from cloud into your machine
-2) git status                             -> to check status for the current time
-3.1) git add .                            -> to add all changes into account of git
-3.2) git add 'filename'                   -> to add particular file changes into account of git
-4) git commit -m "commit message"         -> make commits
-5) git push origin master                 -> push all changes `to` cloud (repo/project)
-6) git pull origin master                 -> pull all changes `from` cloud into your machine
+1)   git clone 'url'                        -> to clone repo (project) from cloud into your machine
+2)   git status                             -> to check status for the current time
+3.1) git add .                              -> to add all changes into account of git
+3.2) git add 'filename'                     -> to add particular file changes into account of git
+4)   git commit -m "commit message"         -> make commits
+5)   git push origin master                 -> push all changes `to` cloud (repo/project)
+6)   git pull origin master                 -> pull all changes `from` cloud into your machine
