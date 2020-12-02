@@ -1,0 +1,7 @@
+Lesson #6:
+    - Arithmetic operators
+    - Relational Operators
+    - Logical Operators
+    - Assignment Operators
+    - Miscellaneous Operators
+    - Problem solving
