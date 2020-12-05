@@ -1,0 +1,11 @@
+ - fesilleri ve ondaki aylari tapan app
+    in: 2
+    out: Spring season, Months: March, April, May
+
+ - daxil edilmish ededin tek ve ya cut oldugunu tapan proqram yazin
+    in: 8
+    out: Even
+    in: 9
+    out: Odd
+
+    DEADLINE: 08/12/2020, 23:00

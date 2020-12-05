@@ -1,0 +1,7 @@
+Control flow:
+ - User input via console (terminal)
+ - Conditional statements
+    - if
+    - if/else
+    - if/else-if/else
+    - switch-case
