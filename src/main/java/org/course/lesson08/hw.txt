@@ -1,0 +1,8 @@
+  - for
+  - while
+  - do-while
+  - practice -> Problem Solving
+
+  - e-olymp -> https://www.e-olymp.com/az/
+
+  formatting => ctrl + alt + L
