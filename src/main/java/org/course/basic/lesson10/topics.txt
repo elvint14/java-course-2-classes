@@ -1,10 +1,9 @@
 Methods:
-    - What is a method in Java?
-        - Parameters
-            - Parametric methods
-            - Non-parametric methods
+    - What is a method(function) in Java?
+    - Parameters
+        - Parametric methods
+        - Non-parametric methods
     - What is Return type?
         - void (no-return)
         - other return types;
-    - Recursion (basic)
     - Practice:	“Calculator app with switch and methods”
