@@ -1,0 +1,3 @@
+Arrays:
+    - Operations on an array (fill, print, copy etc.)
+    - enhanced for loop - ‘foreach’
