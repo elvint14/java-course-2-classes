@@ -1,0 +1,13 @@
+String
+    - Char array and String
+    - String under the hood
+    - Memory management in java
+        - Stack
+        - Heap
+    - String concatenation:
+        - “+” operator for strings
+        - StringBuilder
+        - StringBuffer
+    - Comparison of above solutions
+    - Methods of String class
+    - Practice:	“Problem solving”
