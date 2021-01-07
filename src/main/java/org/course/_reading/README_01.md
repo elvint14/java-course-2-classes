@@ -1,7 +1,7 @@
 # You `should` accustom yourself with the following materials before moving on to the next lesson:
 ---
 ## `READING`
-- JAVA #1 - BASIC (obligatory)
+- JAVA #1 - BASIC (obligatory) - INTRO
     - [First of all, you should install Java SE8 on your operating system](https://www.oracle.com/technetwork/java/javase/downloads/)
     - [Java Overview](https://developer.ibm.com/tutorials/j-introtojava1/)
     - [Java Basics](https://www.geeksforgeeks.org/java-programming-basics/)
@@ -50,4 +50,4 @@ operator (%)?
 14. Which type casting direction can result in a `loss of data`?
 ---
 
-[`© Elvin Taghizade`](elvintaghiyev184@gmai.com)
+[`© Elvin Taghizade`](elvintaghiyev184@gmail.com)
