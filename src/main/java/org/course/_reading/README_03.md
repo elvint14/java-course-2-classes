@@ -1,6 +1,8 @@
 # You `should` accustom yourself with the following materials before moving on to the next lesson:
 ---
+
 ## `READING`
+
 - JAVA #3 - BASIC (obligatory) - ARRAYS, STRING
     - [Arrays in Programming](https://www.toolsqa.com/datastructures/array-in-programming/)
     - [Arrays in Java](https://www.geeksforgeeks.org/arrays-injava/)
@@ -15,20 +17,24 @@
 ---
 
 ## `WATCHING`
+
 - JAVA #3 - ADDITIONAL video materials (non-obligatory)
     - [Arrays in Java](https://www.youtube.com/watch?v=TmM9XAIKa-Y)
     - [Array with Example](https://www.youtube.com/watch?v=udHgmxK9oAI)
     - [Awesome explanation of Strings in Java!](https://www.youtube.com/watch?v=4l50UaPca7Y)
     - [StringBuffer and StringBuilder in Java](https://www.youtube.com/watch?v=oYcb0N1YfVw)
+
 ---
 
 ## `QUESTIONS`
+
 1. An array is a simple variable that can `contain` ... .
-2. Which `index` is the starting point for counting array
-elements?
+2. Which `index` is the starting point for counting array elements?
 3. How can you `assign` a value to an array when creating it?
-4. You are given an array of objects: `String[] citiesArray = {"Kyiv", "Odessa", "Lvova"};`. How can we change Odessa to Barcelona?
-5. You are given an array of objects: `String[] citiesArray = {"Kyiv", "Odessa", "Lviv"};`. How can we check the array length?
+4. You are given an array of objects: `String[] citiesArray = {"Kyiv", "Odessa", "Lvova"};`. How can we change Odessa to
+   Barcelona?
+5. You are given an array of objects: `String[] citiesArray = {"Kyiv", "Odessa", "Lviv"};`. How can we check the array
+   length?
 6. Can we change the array length after its creation?
 7. What is the purpose of the sort() method in the `Arrays` class?
 8. Which Java class is responsible for working with strings?
@@ -53,6 +59,7 @@ elements?
     String[] words = text.split(" ");
     for(String word : words) System.out.println(word);
     </pre>
+
 ---
 
 [`© Elvin Taghizade`](elvintaghiyev184@gmail.com)

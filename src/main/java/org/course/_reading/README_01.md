@@ -1,6 +1,8 @@
 # You `should` accustom yourself with the following materials before moving on to the next lesson:
 ---
+
 ## `READING`
+
 - JAVA #1 - BASIC (obligatory) - INTRO
     - [First of all, you should install Java SE8 on your operating system](https://www.oracle.com/technetwork/java/javase/downloads/)
     - [Java Overview](https://developer.ibm.com/tutorials/j-introtojava1/)
@@ -20,9 +22,11 @@
     - [Eight primitive data types](https://cs.fit.edu/~ryan/java/language/java-data.html)
     - [Java Primitive Conversions](https://www.baeldung.com/java-primitive-conversions)
     - [Monetary Calculations](https://dzone.com/articles/never-use-float-and-double-formonetary-calculatio)
+
 ---
 
 ## `WATCHING`
+
 - JAVA #1 - ADDITIONAL video materials (non-obligatory)
     - https://www.youtube.com/watch?v=WPvGqX-TXPo
     - https://www.youtube.com/watch?v=si9qdX76iMw
@@ -30,9 +34,11 @@
     - https://www.youtube.com/watch?v=81piDKqPxjQ
     - https://www.youtube.com/watch?v=oY4SkTjkXyg
     - https://www.youtube.com/watch?v=Y2iN3TO5qOQ
+
 ---
 
 ## `QUESTIONS`
+
 1. Which `method` is located in the main class of any Java program and serves as an entry point to the program?
 2. What is the difference between `System.out.print()` && `System.out.println()` && `System.out.printf()`?
 3. A `variable` in Java is ... .
@@ -44,10 +50,11 @@
 9. Can you `initialize` a variable (give it a value) exactly after declaring it?
 10. What is the `default` boolean value?
 11. You are given two integer variables: `int a = 4, b = 7`. What will be the result of `b % a` if you use the modulus
-operator (%)?
+    operator (%)?
 12. What is the `default` value of an integer data type?
 13. How many `casting directions` do you know?
 14. Which type casting direction can result in a `loss of data`?
+
 ---
 
 [`© Elvin Taghizade`](elvintaghiyev184@gmail.com)
