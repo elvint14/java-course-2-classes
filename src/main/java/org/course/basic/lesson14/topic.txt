@@ -1,13 +1,10 @@
 String
-    - Char array and String
-    - String under the hood
-    - Memory management in java
-        - Stack
-        - Heap
-    - String concatenation:
-        - “+” operator for strings
-        - StringBuilder
-        - StringBuffer
-    - Comparison of above solutions
-    - Methods of String class
-    - Practice:	“Problem solving”
+    - recap
+    - Types of data types (primitive and non-primitive(reference))
+    - Char array and understanding String
+    - String under the hood (uses char array etc.)
+    - Methods of String class (some)
+        - toLowerCase() & toUpperCase()
+        - substring() & trim()
+        - indexOf(String s) & indexOf(int i)
+        - split(), replace(), length(), concat()
