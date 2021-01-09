@@ -1,0 +1,3 @@
+Stack
+    - o yerdir ki, primitive var. haqqında hər məlumatı yadda yaxlayır!
+    - o yerdir ki, non-primitive var.-ın heap-dəki yerini(address) özündə saxlayır!

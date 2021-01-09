@@ -1,0 +1,6 @@
+String
+  - Memory (RAM) intro
+  - Memory management in java
+      - Stack
+      - Heap
+  - References and how this works?
