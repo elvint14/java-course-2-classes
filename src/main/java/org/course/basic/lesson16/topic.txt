@@ -1,0 +1,14 @@
+String
+  - e-olmyp exercises
+  - String pool
+  - Passing values
+    - Passing-by-value
+    - Passing-by-reference
+  - Memory management via diagrams - basic
+  - Memory management via diagrams - intermediate (method parameter)
+  - String concatenation:
+    - “+” operator for strings
+    - concat()
+    - StringBuilder
+    - StringBuffer
+    - Comparison of above solutions
