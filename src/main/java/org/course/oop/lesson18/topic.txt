@@ -1,11 +1,17 @@
 Object-Oriented Programming (OOP) #1
     - Object and class
-    - Access modifiers – Encapsulation
-    - References/Garbage collectors
-    - Pass by value/reference
-    - Static and non-static
-    - Class loading
-    - Types of variables
-        - Instance variables
-        - Local variables
-        - Static variable
+    - Overloading
+    - 4 principles of OOP
+        - Encapsulation
+        - Inheritance
+        - Polymorphism
+        - Abstraction
+    - Access modifiers (Encapsulation)
+        - public
+        - private
+        - protected
+        - default
+    - Constructors
+        - this keyword
+    - fields and methods
+    - Object creation (new keyword)
