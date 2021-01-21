@@ -1,0 +1,10 @@
+Object-Oriented Programming (OOP) #2
+    - Recap of last lesson (lesson #18 - oop #1)
+    - `Static` and `non-static` difference
+    - Getters and setters
+    - Class loading
+    - Types of variables
+        - Instance variables
+        - Local variables
+        - Static variables
+    - References/Garbage collectors
