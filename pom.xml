@@ -8,5 +8,9 @@
     <artifactId>java-course-2-classes</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <properties>
+        <source.java>1.8</source.java>
+        <target.java>1.8</target.java>
+    </properties>
 
 </project>

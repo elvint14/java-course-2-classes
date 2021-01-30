@@ -1,0 +1,10 @@
+Object-Oriented programming (OOP) #4
+    - Overriding
+        - Object class
+            - equals()
+            - hashcode()
+            - toString()
+    - Wrapper types
+    - Abstraction (abstract)
+
+    https://drive.google.com/file/d/1psCg_5AX4dYgJNU6h6KmyflWyj6dOqPU/view?usp=sharings
