@@ -1,6 +1,6 @@
 package org.course.part03.lesson34.lesson.controller;
 
-import org.course.part03.lesson34.exception.UserNotFoundException;
+import org.course.part03.lesson34.lesson.exception.UserNotFoundException;
 import org.course.part03.lesson34.lesson.entity.User;
 import org.course.part03.lesson34.lesson.service.UserService;
 

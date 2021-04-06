@@ -1,4 +1,4 @@
-package org.course.part03.lesson34.exception;
+package org.course.part03.lesson34.lesson.exception;
 
 public class UserNotFoundException extends RuntimeException {
     public UserNotFoundException(String message) {
