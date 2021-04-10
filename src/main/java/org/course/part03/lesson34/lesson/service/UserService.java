@@ -10,4 +10,7 @@ public class UserService {
         return userDao.findByUsername(username);
     }
 
+    public void saveUser(User user) {
+        userDao.save(user);
+    }
 }

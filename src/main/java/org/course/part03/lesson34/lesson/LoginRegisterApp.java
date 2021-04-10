@@ -10,12 +10,14 @@ public class LoginRegisterApp {
     private static final UserController userController = new UserController();
 
     public static void main(String[] args) {
-        String menu = Menu.getMenu();
-        System.out.println(menu);
+        while (true) {
+            String menu = Menu.getMenu();
+            System.out.println(menu);
 
-        int menuId = getMenuIdFromUser();
+            int menuId = getMenuIdFromUser();
 
-        doOperation(menuId);
+            doOperation(menuId);
+        }
     }
 
     private static int getMenuIdFromUser() {
@@ -45,10 +47,18 @@ public class LoginRegisterApp {
             String username = scan.nextLine();
             System.out.print("Enter password: ");
             String password = scan.nextLine();
-            System.out.println(username + " " + password);
-            userController.login(username, password);
+            String message = userController.login(username, password);
+            System.out.println(message);
         } else if (menuId == 2) {
-            // TODO: 4/5/21 REGISTER
+            Scanner scan = new Scanner(System.in);
+            System.out.print("Enter username: ");
+            String username = scan.nextLine();
+            System.out.print("Enter password: ");
+            String password = scan.nextLine();
+            System.out.print("Enter confirm password: ");
+            String confirmPassword = scan.nextLine();
+            String message = userController.register(username, password, confirmPassword);
+            System.out.println(message);
         } else if (menuId == 3) {
             System.out.println("Bye ...");
             System.exit(1);

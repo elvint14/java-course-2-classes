@@ -20,11 +20,11 @@ public enum Menu {
     }
 
     public static String getMenu() {
-        StringBuilder result = new StringBuilder();
+        StringBuilder result = new StringBuilder().append("**********\n");
         Menu[] menus = Menu.values();
         for (Menu menu : menus) {
             if (!menu.equals(Menu.UNKNOWN)) result.append(menu.toString()).append("\n");
         }
-        return result.toString();
+        return result.append("**********\n").toString();
     }
 }
