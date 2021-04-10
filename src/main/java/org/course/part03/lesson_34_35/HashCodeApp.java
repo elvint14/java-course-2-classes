@@ -1,4 +1,4 @@
-package org.course.part03.lesson34;
+package org.course.part03.lesson_34_35;
 
 public class HashCodeApp {
     public static void main1(String[] args) {

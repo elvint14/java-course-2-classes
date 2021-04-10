@@ -1,6 +1,6 @@
-package org.course.part03.lesson34.lesson.dao;
+package org.course.part03.lesson_34_35.lesson.dao;
 
-import org.course.part03.lesson34.lesson.entity.User;
+import org.course.part03.lesson_34_35.lesson.entity.User;
 
 import java.sql.*;
 

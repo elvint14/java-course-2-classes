@@ -1,4 +1,4 @@
-package org.course.part03.lesson34.lesson.constant;
+package org.course.part03.lesson_34_35.lesson.constant;
 
 public enum Menu {
     LOGIN(1L, "Login"),

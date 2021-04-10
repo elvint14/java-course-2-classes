@@ -1,11 +1,11 @@
-package org.course.part03.lesson34.lesson.controller;
+package org.course.part03.lesson_34_35.lesson.controller;
 
-import org.course.part03.lesson34.lesson.exception.DuplicateUsernameException;
-import org.course.part03.lesson34.lesson.exception.IncorrectPasswordException;
-import org.course.part03.lesson34.lesson.exception.PasswordAndConfirmPasswordNotEqualException;
-import org.course.part03.lesson34.lesson.exception.UserNotFoundException;
-import org.course.part03.lesson34.lesson.entity.User;
-import org.course.part03.lesson34.lesson.service.UserService;
+import org.course.part03.lesson_34_35.lesson.exception.DuplicateUsernameException;
+import org.course.part03.lesson_34_35.lesson.exception.IncorrectPasswordException;
+import org.course.part03.lesson_34_35.lesson.exception.PasswordAndConfirmPasswordNotEqualException;
+import org.course.part03.lesson_34_35.lesson.exception.UserNotFoundException;
+import org.course.part03.lesson_34_35.lesson.entity.User;
+import org.course.part03.lesson_34_35.lesson.service.UserService;
 
 public class UserController {
     private static final UserService userService = new UserService();

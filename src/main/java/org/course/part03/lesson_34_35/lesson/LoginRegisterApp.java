@@ -1,7 +1,7 @@
-package org.course.part03.lesson34.lesson;
+package org.course.part03.lesson_34_35.lesson;
 
-import org.course.part03.lesson34.lesson.constant.Menu;
-import org.course.part03.lesson34.lesson.controller.UserController;
+import org.course.part03.lesson_34_35.lesson.constant.Menu;
+import org.course.part03.lesson_34_35.lesson.controller.UserController;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package org.course.part03.lesson34.lesson.exception;
+package org.course.part03.lesson_34_35.lesson.exception;
 
 public class IncorrectPasswordException extends RuntimeException {
     public IncorrectPasswordException(String message) {

@@ -1,4 +1,4 @@
-package org.course.part03.lesson34.lesson.entity;
+package org.course.part03.lesson_34_35.lesson.entity;
 
 import java.util.Objects;
 
