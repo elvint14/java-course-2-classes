@@ -5,6 +5,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 
@@ -20,13 +21,13 @@ public class StudentServlet extends HttpServlet {
         HashMap<String, Object> data = new HashMap<>();
         data.put("username", "Teacher - Elvin Taghizade");
 
-//        List<Student> students = Arrays.asList(
-//                new Student(1, "Elvin", "Taghizade", 21, "CS"),
-//                new Student(2, "Rovshen", "Meherremov", 19, "CS"),
-//                new Student(3, "Ali", "Muxtarli", 19, "CS")
-//        );
+        List<Student> students = Arrays.asList(
+                new Student(1, "Elvin", "Taghizade", 21, "CS"),
+                new Student(2, "Rovshen", "Meherremov", 19, "CS"),
+                new Student(3, "Ali", "Muxtarli", 19, "CS")
+        );
 
-        List<Student> students = new Database().findAllStudent();
+//        List<Student> students = new Database().findAllStudent();
 
         data.put("students", students);
         templateEngine.render("students.ftl", data, resp);
