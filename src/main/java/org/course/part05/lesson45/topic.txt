@@ -1,1 +1,4 @@
 Spring intro
+    - @SpringBootApplication
+    - @RequestMapping
+    - @GetMapping
