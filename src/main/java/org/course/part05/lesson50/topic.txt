@@ -1,0 +1,3 @@
+ - Building restful web service
+ - web database (PostgreSQL) - CRUD (Create, Read, Update, Delete) operations
+ - Deploy into Heroku
